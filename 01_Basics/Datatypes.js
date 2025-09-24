@@ -19,6 +19,6 @@ isloggedin=true
 console.log(typeof"radhika")
 console.log(typeof null); //object
 console.log(typeof undefined); //undefined
-
+ 
 
 
